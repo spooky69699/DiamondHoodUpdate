@@ -202,8 +202,6 @@
                 { date: '7/28/2024', description: '[UPDATE] ZOMBIE GAMEMODE' },
                 { date: '7/28/2024', description: '[FIXED] Battle Royal' },
                 { date: '7/28/2024', description: '[FIXED] Slide System' },
-                { date: '7/28/2024', description: '[FIXED] Anti Dex' },
-                { date: '7/28/2024', description: '[FIXED] Gun Bug' },
             ];
 
             const logsPerPage = 8;
